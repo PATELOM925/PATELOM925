@@ -4,7 +4,7 @@ A technology buff 💀 from India
 
 # 💫 About Me:
 🔭 I’m currently working on PaperCheckMate <br>
-🌱 I’m currently Deep Diving in the world of data <br>
+🌱 I’m currently Deep Diving in the World OF Data!! <br>
 💬 Ask me about Java,Kotlin <br>
 📫 Reach me at iampatelom@gmail.com <br>
 ⚡ Fun fact avid podcast listener <br>
