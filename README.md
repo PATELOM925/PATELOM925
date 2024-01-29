@@ -3,7 +3,7 @@
 A technology buff 💀 from India
 
 # 💫 About Me:
-🔭 I’m currently working on PaperCheckMate <br>
+🔭 I’m currently working on EPC <br>
 🌱 I’m currently Deep Diving in the World OF Data!! <br>
 💬 Ask me about Python,Java,Kotlin <br>
 📫 Reach me at iampatelom@gmail.com <br>
