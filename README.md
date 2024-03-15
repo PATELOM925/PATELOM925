@@ -2,9 +2,9 @@
 A technology buff 💀 from India
 
 # 💫 About Me:
-🔭 I’m currently working on EPC <br>
+🔭 I’m currently working on Text2SQL <br>
 🌱 I’m currently Deep Diving in the World OF Data!! <br>
-💬 Ask me about Python,Java,Kotlin <br>
+💬 Ask me about Data Science, Python & Machine Learning.<br>
 📫 Reach me at iampatelom@gmail.com <br>
 ⚡ Fun fact avid podcast listener <br>
 👉 Checkout my [Resume](https://om-m-patel.streamlit.app/)
