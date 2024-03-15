@@ -1,4 +1,3 @@
-[![Tech](https://cdn.wallpapersafari.com/27/95/nxCSDi.gif)](https://github.com/PATELOM925)
 # Hello World 👋, Myself OM M PATEL
 A technology buff 💀 from India
 
