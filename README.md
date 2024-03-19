@@ -25,7 +25,7 @@ A technology buff 💀 from India
  
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patelom925&theme=highcontrast&border_radius=5&card_width=505)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PATELOM925&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelom925&layout=compact&theme=highcontrast)
 
 ### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
