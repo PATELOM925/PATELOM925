@@ -2,7 +2,7 @@
 A technology buff 💀 from India 
 
 # 💫 About Me:
-🔭 I’m currently working on Text2SQL <br>
+🔭 I’m currently working on GenAI Applications <br>
 🌱 I’m currently Deep Diving in the World OF Data!! <br>
 💬 Ask me about Data Science, Python & Machine Learning.<br>
 📫 Reach me at iampatelom@gmail.com <br>
