@@ -17,7 +17,7 @@ A technology buff 💀 from India
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatpdf-ai-om-m-patel.streamlit.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iamommpatel)
 
-
+ 
 
 
 # 💻 Tech Stack:
