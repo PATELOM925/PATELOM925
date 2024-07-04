@@ -34,4 +34,4 @@ A technology buff 💀 from India
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Memes 😂
-<img src='https://js-api-random-meme-generator.netlify.app' style="height: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
