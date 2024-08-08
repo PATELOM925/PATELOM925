@@ -1,5 +1,5 @@
 # Hello World 👋, Myself OM M PATEL
-A technology buff 💀 from India 
+A technology buff 💀 from India  
 
 # 💫 About Me:
 🔭 I’m currently working on GenAI Applications <br> 
