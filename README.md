@@ -11,7 +11,7 @@ A technology buff 💀 from India
 ## 🌐 Socials:
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/OMMPATEL) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PATELOM925) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-m-patel-b539b8213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-m-patel/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/askompatel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/om_m_patel ) 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatpdf-ai-om-m-patel.streamlit.app/)
