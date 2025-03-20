@@ -2,7 +2,7 @@
 A technology buff 💀 from India   
 
 # 💫 About Me:
-🔭 I’m currently working on GenAI Applications <br>  
+🔭 I’m currently exploring AI Applications <br>  
 🌱 Deep Diving in the World Of Data!! <br>
 💬 Ask me about Data Science, Python & Machine Learning.<br>
 📫 Reach me at iampatelom@gmail.com <br> 
