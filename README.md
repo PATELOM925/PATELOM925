@@ -6,8 +6,8 @@ A technology buff 💀 from India
 🌱 Deep Diving in the World Of Data!! <br>
 💬 Ask me about Data Science, Python & Machine Learning.<br>
 📫 Reach me at iampatelom@gmail.com <br> 
-⚡ Fun fact avid podcast listener <br>
-👉 Checkout my [Resume](https://om-m-patel.streamlit.app/)
+⚡ ⚡ Fun Fact: I’m an avid podcast listener—always learning something new on the go! <br>
+👉 Checkout my [Resume](https://om-m-patel.streamlit.app/) for the fool scoop 🍨🍨
 ## 🌐 Socials:
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/OMMPATEL) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PATELOM925) 
