@@ -5,7 +5,7 @@ A technology buff 💀 from India
 🔭 I’m currently exploring AI Applications <br>  
 🌱 Deep Diving in the World Of Data!! <br>
 💬 Ask me about Data Science, Python & Machine Learning.<br>
-📫 Reach me at iampatelom@gmail.com <br> 
+📫 Reach out at: iampatelom@gmail.com <br> 
 ⚡ ⚡ Fun Fact: I’m an avid podcast listener—always learning something new on the go! <br>
 👉 Checkout my [Resume](https://om-m-patel.streamlit.app/) for the fool scoop 🍨🍨
 ## 🌐 Socials:
