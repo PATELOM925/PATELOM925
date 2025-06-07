@@ -1,5 +1,5 @@
 # Hello World 👋, I am OM M. PATEL 
-A technology buff 💀 from India    
+A technology buff 💀 from India 💻🤖
 
 # 💫 About Me:   
 🔭 I’m currently exploring AI Applications <br>  
