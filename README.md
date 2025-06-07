@@ -1,9 +1,9 @@
 # Hello World 👋, I am OM M. PATEL 
-A technology buff 💀 from India 💻🤖
+A technology buff 💀 from India 💻⚙️
 
 # 💫 About Me:   
-🔭 I’m currently exploring AI Applications <br>  
-🌱 Deep Diving in the World Of Data!! <br>
+🔭 I’m currently exploring AI Applications<br>  
+🌱 Deep Diving into the World Of Data📊📈!! <br>
 💬 Ask me about Data Science, Python & Machine Learning.<br>
 📫 Reach out at: iampatelom@gmail.com <br> 
 ⚡ ⚡ Fun Fact: I’m an avid podcast listener—always learning something new on the go! <br>
