@@ -1,4 +1,4 @@
-# Hello World 👋, I am OM M. PATEL 
+# Hello World 👋, I am OM M. PATEL  
 A technology buff 💀 from India 💻⚙️
 
 # 💫 About Me:   
