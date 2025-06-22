@@ -27,8 +27,7 @@ A technology buff 💀 from India 💻⚙️
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelom925&theme=highcontrast&border_radius=5&card_width=505)](https://git.io/streak-stats) <br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=patelom925&theme=highcontrast&border_radius=5&card_width=505)](https://git.io/streak-stats) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelom925&layout=compact&theme=highcontrast) </br>
 
 ### ✍️ Quotes
