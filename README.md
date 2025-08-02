@@ -3,7 +3,7 @@
 # 💫 About Me:   
 🔭 I’m currently exploring AI Applications<br>  
 🌱 Deep Diving into the World Of Data📊📈!! <br>
-💬 Ask me about Data Science, Python & Machine Learning.<br>
+💬 Ask me about Data Science, Python & ML.<br>
 📫 Reach out at: iampatelom@gmail.com <br> 
 ⚡ ⚡ Fun Fact: I’m an avid podcast listener—always learning something new on the go! <br>
 👉 Checkout my [Resume](https://om-m-patel.streamlit.app/) for the fool scoop 🍨🍨
