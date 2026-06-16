@@ -1,23 +1,21 @@
-# Hello World 👋, I am OM M. PATEL from India 💻⚙️
+# Hello World 👋, I am OM M. PATEL from Toronto 💻⚙️
 
 # 💫 About Me:   
-🔭 I’m currently exploring AI Applications<br>  
-🌱 Deep Diving into the World Of Data📊📈!! <br>
-💬 Ask me about Data Science, Python & ML.<br>
+🔭 AI/ML Engineer · LLM Researcher · Full-Stack Developer · Vector AI Scholar @YorkU<br>  
+🌱 Building Agentic Systems & NLP for Low-Resource Languages📊📈!! <br>
+💬 Ask me about Agents, LLMs & NLP.<br>
 📫 Reach out at: iampatelom@gmail.com <br> 
 ⚡ ⚡ Fun Fact: I’m an avid podcast listener—always learning something new on the go! <br>
-👉 Checkout my [Resume](https://om-m-patel.streamlit.app/) for the fool scoop 🍨🍨
+👉 Checkout my [Resume](https://iampatelom.com/) for the fool scoop 🍨🍨
 ## 🌐 Socials:
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/OMMPATEL) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PATELOM925) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-m-patel/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/askompatel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/om_m_patel ) 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatpdf-ai-om-m-patel.streamlit.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iamommpatel)
 
  
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
