@@ -1,4 +1,4 @@
-# Hello World 👋, I am OM M. PATEL from Toronto 💻⚙️
+# Hello World 👋, I am OM M. PATEL from Toronto 💻𓍙
 
 # 💫 About Me:   
 🔭 AI/ML Engineer · LLM Researcher · Full-Stack Developer · Vector AI Scholar @YorkU<br>  
