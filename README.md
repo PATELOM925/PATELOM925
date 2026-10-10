@@ -21,6 +21,7 @@
 | Demo | What you can do |
 |---|---|
 | ▶️ [Remote Codex Control replay](https://iampatelom.com/demos/remote-codex-control) | Step through a real approval session between an operator and a coding agent. |
+| 🖥️ [Remote Codex Control web console](https://rcc-demo.iampatelom.workers.dev) | Use the real console on a simulated Mac: open threads, send a message, approve or deny an action. Made-up data, no network calls. |
 | 📊 [TTC Pulse delay explorer](https://iampatelom.com/demos/ttc-pulse) | Explore 1.1 million Toronto transit delay events by hour, cause and route. |
 
 # 📌 Featured Projects:
