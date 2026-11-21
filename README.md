@@ -20,9 +20,9 @@
 # 🚀 Try My Work (live, no install):
 | Demo | What you can do |
 |---|---|
-| ▶️ [Remote Codex Control replay](https://iampatelom.com/demos/remote-codex-control) | Step through a real approval session between an operator and a coding agent. |
-| 🖥️ [Remote Codex Control web console](https://rcc-demo.iampatelom.workers.dev) | Use the real console on a simulated Mac: open threads, send a message, approve or deny an action. Made-up data, no network calls. |
+| ▶️ [P-DOT](https://pdot.iampatelom.com/) | Your Personal Private AI Bot/Dot |
 | 📊 [TTC Pulse delay explorer](https://iampatelom.com/demos/ttc-pulse) | Explore 1.1 million Toronto transit delay events by hour, cause and route. |
+| 🖥️ [Remote Codex Control web console](https://rcc-demo.iampatelom.workers.dev) | Use the real console on a simulated Mac: open threads, send a message, approve or deny an action. Made-up data, no network calls |
 
 # 📌 Featured Projects:
 | Project | What it is | My part |
